@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+  <testing_theory>SDLC</testing_theory>
+  <testing_theory>STLC</testing_theory>
+  <testing_theory>Documentation</testing_theory>
+  <testing_theory>Types oftesting</testing_theory>
+  <testing_theory>Methods testing</testing_theory>
+  <client_server_architecture>HTTP_methods_of_reguest_to_the_server</client_server_architecture>
+  <client_server_architecture>server_respons_codes</client_server_architecture>
+  <client_server_architecture>structures_of_HTTP_request_and_respons</client_server_architecture>
+  <client_server_architecture>JSON</client_server_architecture>
+  <client_server_architecture>XML</client_server_architecture>
+  <API_Testing>API Testing with Postman</API_Testing>
+  <Logs>Removing and reading logs from an external server</Logs>
+  <Sniffing_http_web_traffic>Charles and Fiddler</Sniffing_http_web_traffic>
+  <Dev_tools>Developer tools for web browsers (Google Chrome, FireFox)</Dev_tools>
+  <Command_line_Linux>Copy, create, view, move files on non-GUI servers</Command_line_Linux>
+  <Database>Postgres (installation, configuration and use)</Database>
+  <Non_relational_Redis_database>installation, configuration and use</Non_relational_Redis_database>
+  <Load_testing>Apache JMeter</Load_testing>
+  <Basics_of_bash_scripting>Automation of routine tasks on the server</Basics_of_bash_scripting>
+  <Mobile_testing>Feature iOS and Android</Mobile_testing>
+  <Mobile_testing>Guidelines</Mobile_testing>
+  <Mobile_testing>Building iOS Application with Xcode</Mobile_testing>
+  <Mobile_testing>Building Android Application on Android Studio</Mobile_testing>
+  <Mobile_testing>ADB (android device management)</Mobile_testing>
+  <Mobile_testing>Setting up proxy and vpn on iOS and Android</Mobile_testing>
+  <Mobile_testing>Sniffing of mobile traffic  via Charles and Fiddler on iOS and Android</Mobile_testing>
+  <SQL>Create</SQL>
+  <SQL>Delete</SQL>
+  <SQL>Drop</SQL>
+  <SQL>Insert_into</SQL>
+  <SQL>Select</SQL>
+  <SQL>From</SQL>
+  <SQL>Where</SQL>
+  <SQL>Join</SQL>
+  <Python>Learning the basics. Creating a client-server application</Python>
+</skills>
+
